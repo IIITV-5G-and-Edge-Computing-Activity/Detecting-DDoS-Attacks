@@ -16,14 +16,15 @@ Distributed Denial of Service (DDoS) attacks are among the most severe threats t
 
 ## 🛠 System Architecture  
 ### Components  
-1. **Data Collection & Preprocessing**  
+1. **Data Collection & Preprocessing**
+   - Dataset should look like the one whicj is present in the sample dataset folder.
    - Collects and cleans network traffic data.  
    - Extracts key features: Source IP, Destination IP, Protocol, and DDoS Label.
 
-2. **Machine Learning Module**  
+3. **Machine Learning Module**  
    - Implements predictive models for real-time anomaly detection.
 
-3. **Visualization & Mitigation Module**  
+4. **Visualization & Mitigation Module**  
    - Interactive dashboard for monitoring and mitigating threats.
 
 ### Workflow  
