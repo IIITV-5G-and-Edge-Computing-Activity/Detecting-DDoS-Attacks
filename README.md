@@ -6,6 +6,15 @@ Distributed Denial of Service (DDoS) attacks are among the most severe threats t
 
 ---
 
+## 🏆 Contributors   
+- **Avin Saxena - 202111015**
+- **K. Anamithra - 202111041** 
+- **Shriram Ashok Birajdar - 202111078**  
+- **Vaishali Bhagwani - 202111085**  
+- **Yeshwanth Vatti - 202111086**
+
+---
+
 ## ✨ Features  
 - **Real-Time Traffic Analysis**: Detect DDoS attacks with minimal latency.  
 - **Machine Learning Models**: Employ advanced algorithms like **Random Forest**, **KNN**, and **Naive Bayes**.  
@@ -103,17 +112,10 @@ Ensure the following are installed:
 
 ---
 
-## 🏆 Contributors  
-- **K. Anamithra**  
-- **Avin Saxena**  
-- **Shriram Ashok Birajdar**  
-- **Vaishali Bhagwani**  
-- **Yeshwanth Vatti**
 
 
 
 
----
 
 ## 📬 Feedback  
 We welcome suggestions and improvements. Feel free to raise an issue or reach out via email-anamithrak@gmail.com.  
