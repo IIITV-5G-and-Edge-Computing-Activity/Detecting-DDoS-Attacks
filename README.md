@@ -71,11 +71,12 @@ Ensure the following are installed:
 ### Setup Instructions  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/your-repo/ddos-prediction-system.git
+   github.com/IIITV-5G-and-Edge-Computing-Activity/Detecting-DDoS-Attacks.git
    cd ddos-prediction-system
    ```  
 2. Install backend dependencies:  
    ```bash
+   cd backend
    pip install -r requirements.txt
    ```  
 3. Start the backend:  
@@ -85,11 +86,11 @@ Ensure the following are installed:
 4. Install frontend dependencies:  
    ```bash
    cd frontend
-   npm install
+   pip install -r requirements.txt
    ```  
 5. Start the frontend:  
    ```bash
-   npm start
+   streamlit run st_app.py
    ```
 
 ---
@@ -108,17 +109,8 @@ Ensure the following are installed:
 - **Vaishali Bhagwani**  
 - **Yeshwanth Vatti**
 
----
 
-## 📜 Citation
-```
-@article{DDoS5G,
-  title={DDoS Prediction System: A Study on Detection and Impact on 5G Networks},
-  author={Avin Saxena, K. Anamithra, Shriram Ashok Birajdar, Vaishali Bhagwani, Yeshwanth Vatti},
-  journal={Cybersecurity and ML Applications},
-  year={2024}
-}
-```
+
 
 ---
 
