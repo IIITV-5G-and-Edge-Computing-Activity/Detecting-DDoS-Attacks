@@ -1,6 +1,3 @@
-Below is a rich and comprehensive `README.md` file for the **DDoS Prediction System for 5G Networks** project:
-
----
 
 # DDoS Prediction System for 5G Networks 🌐
 
@@ -113,8 +110,7 @@ Ensure the following are installed:
 
 ---
 
-## 📜 Citation  
-If you use this system in your research, please cite:  
+## 📜 Citation
 ```
 @article{DDoS5G,
   title={DDoS Prediction System: A Study on Detection and Impact on 5G Networks},
