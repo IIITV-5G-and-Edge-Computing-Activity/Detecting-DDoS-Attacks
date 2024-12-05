@@ -47,9 +47,9 @@ The system achieves exceptional results, as summarized below:
 ### Experimental Visuals  
 The system's effectiveness is demonstrated through:  
 1. **Model Training**  
-   ![Model Training](path-to-training-image.png)  
+   ![Model Training](Images/train.png)  
 2. **Anomaly Detection**  
-   ![Anomaly Detection](path-to-prediction-image.png)
+   ![Anomaly Detection](Images/predict.png)
 
 ---
 
