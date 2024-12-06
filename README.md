@@ -116,8 +116,6 @@ Ensure the following are installed:
 ---
 
 
-## Demo 
- ![Link](https://drive.google.com/file/d/1IFbZ0QM8V2aB7eOaDYBApOrpF0esoaTx/view?usp=sharing)
 
 
 
